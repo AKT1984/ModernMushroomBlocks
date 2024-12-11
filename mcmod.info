@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "modernmushrooms",
+    "name": "Modern Mushrooms",
+    "description": "Brings modern behaviour to mushroom blocks",
+    "version": "1.0",
+    "mcversion": "1.6.4"
+  }
+]
